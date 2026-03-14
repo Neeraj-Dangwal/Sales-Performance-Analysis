@@ -42,4 +42,5 @@ The goal of this dashboard is to transform raw sales data into meaningful insigh
 - Profit margins for top products remain around 38–40%.
 
 ## Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Neeraj-Dangwal/Sales-Performance-Analysis/blob/main/business_insights.png
+)
